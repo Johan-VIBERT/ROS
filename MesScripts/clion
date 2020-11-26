@@ -1,0 +1,2 @@
+echo -n "Lancement de Clion" 
+sh /opt/clion-*/bin/clion.sh
